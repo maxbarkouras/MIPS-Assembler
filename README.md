@@ -1,2 +1,2 @@
-# MIPS-Assembler
-MIPS assembler written in x64 assembly (yes its crazy) 
+# MIPS-Toolchain
+MIPS assembler and disassembler written in x64 assembly (yes its crazy) 
